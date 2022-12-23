@@ -1,2 +1,15 @@
-<html><head></head><body></body></html>
+<html>
+	<head>
+	<script><script/>
+	<title></title>
+	<metadata />
+
+	</head>
+	
+	<body>
+	<header></header>
+	<main></main>
+	<footer></footer>
+	</body>
+</html>
 
